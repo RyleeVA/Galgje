@@ -30,4 +30,4 @@
 - beurt7: i (Goed x1)
 - berut8: b (fout)
 - Git-Master: 5/7 dus hint: N
-- beurt9: 
+- beurt9: k

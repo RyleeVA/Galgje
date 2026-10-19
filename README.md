@@ -2,8 +2,8 @@
 
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
-1. <Hugo> – <email1@example.com>
-2. <Nikita> – <email2@example.com>
+1. Hugo
+2. Nikita
 
 ---
 
@@ -20,4 +20,4 @@
 
 ## Beurtenlog
 - (Git-master vult hier reactie in: goed/fout + updates)
-- Beurt1 :
+- Beurt1 : 

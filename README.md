@@ -14,7 +14,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 ## Status
-![status](image/2.png)
+![status](image/3.png)
 
 ---
 
@@ -22,4 +22,5 @@
 <!-- (Git-master vult hier reactie in: goed/fout + updates) -->
 - Beurt1 : a (fout)
 - Beurt2 : c (goed x1)
-- Beurt3 : p
+- Beurt3 : p (fout)
+- Beurt4 :

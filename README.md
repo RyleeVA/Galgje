@@ -31,4 +31,4 @@
 - berut8: b (fout)
 - Git-Master: 5/7 dus hint: N. fout gemaakt, extra beurt
 - beurt9: k (geod x1)
-- beurt10 : 
+- beurt10 : z 

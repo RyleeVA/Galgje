@@ -24,4 +24,4 @@
 - Beurt2 : c (goed x1)
 - Beurt3 : p (fout)
 - Beurt4 : g (fout)
-- buert5 :
+- buert5 : e

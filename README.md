@@ -25,4 +25,4 @@
 - Beurt3 : p (fout)
 - Beurt4 : g (fout)
 - buert5 : e (goed x1)
-- beurt6
+- beurt6 : f

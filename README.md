@@ -14,7 +14,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 ## Status
-![status](image/6.png)
+![status](image/7.png)
 
 ---
 
@@ -33,4 +33,6 @@
 - beurt9: k (geod x1)
 - beurt10 : z  (fout)
 - Git-Master: 6/7 hint: H
-- berut11 : o
+- berut11 : o (fout)
+- Game Over
+- word was: Schrijnwerk

@@ -14,7 +14,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 ## Status
-![status](image/3.png)
+![status](image/4.png)
 
 ---
 
@@ -23,4 +23,5 @@
 - Beurt1 : a (fout)
 - Beurt2 : c (goed x1)
 - Beurt3 : p (fout)
-- Beurt4 : g
+- Beurt4 : g (fout)
+- buert5 :

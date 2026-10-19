@@ -33,4 +33,4 @@
 - beurt9: k (geod x1)
 - beurt10 : z  (fout)
 - Git-Master: 6/7 hint: H
-- berut11 :
+- berut11 : o

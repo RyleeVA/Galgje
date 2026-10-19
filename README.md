@@ -9,7 +9,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | C | . | . | J | . | . | . | E | . | . |
+| . | C | . | I | J | . | . | . | E | . | . |
 | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
@@ -27,4 +27,5 @@
 - buert5 : e (goed x1)
 - beurt6 : f (fout)
 - Git-Master: 5/7 dus Hint: j
-- beurt7: i
+- beurt7: i (Goed x1)
+- berut8: 

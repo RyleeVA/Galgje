@@ -9,12 +9,12 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | C | . | . | . | . | . | . | E | . | . |
+| . | C | . | . | J | . | . | . | E | . | . |
 | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 ## Status
-![status](image/4.png)
+![status](image/5.png)
 
 ---
 
@@ -25,4 +25,6 @@
 - Beurt3 : p (fout)
 - Beurt4 : g (fout)
 - buert5 : e (goed x1)
-- beurt6 : f
+- beurt6 : f (fout)
+- Git-Master: 5/7 dus Hint: j
+- beurt7: 

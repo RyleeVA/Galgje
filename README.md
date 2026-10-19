@@ -22,4 +22,4 @@
 <!-- (Git-master vult hier reactie in: goed/fout + updates) -->
 - Beurt1 : a (fout)
 - Beurt2 : c (goed x1)
-- Beurt3 :
+- Beurt3 : p

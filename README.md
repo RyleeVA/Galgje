@@ -9,7 +9,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | C | . | . | I | J | N | . | E | . | . |
+| . | C | . | . | I | J | N | . | E | . | K |
 | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
@@ -29,5 +29,6 @@
 - Git-Master: 5/7 dus Hint: j
 - beurt7: i (Goed x1)
 - berut8: b (fout)
-- Git-Master: 5/7 dus hint: N
-- beurt9: k
+- Git-Master: 5/7 dus hint: N. fout gemaakt, extra beurt
+- beurt9: k (geod x1)
+- beurt10 : 

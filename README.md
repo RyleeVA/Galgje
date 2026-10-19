@@ -9,12 +9,12 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | C | . | . | I | J | N | . | E | . | K |
+| . | C | H | . | I | J | N | . | E | . | K |
 | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 ## Status
-![status](image/5.png)
+![status](image/6.png)
 
 ---
 
@@ -31,4 +31,6 @@
 - berut8: b (fout)
 - Git-Master: 5/7 dus hint: N. fout gemaakt, extra beurt
 - beurt9: k (geod x1)
-- beurt10 : z 
+- beurt10 : z  (fout)
+- Git-Master: 6/7 hint: H
+- berut11 :

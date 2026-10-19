@@ -23,4 +23,4 @@
 - Beurt1 : a (fout)
 - Beurt2 : c (goed x1)
 - Beurt3 : p (fout)
-- Beurt4 :
+- Beurt4 : g

@@ -21,4 +21,4 @@
 ## Beurtenlog
 <!-- (Git-master vult hier reactie in: goed/fout + updates) -->
 - Beurt1 : a (fout)
-- Beurt2 :
+- Beurt2 : c

@@ -27,4 +27,4 @@
 - buert5 : e (goed x1)
 - beurt6 : f (fout)
 - Git-Master: 5/7 dus Hint: j
-- beurt7: 
+- beurt7: i

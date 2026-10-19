@@ -9,7 +9,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | . | . | . | . | . | . | . |
+| . | C | . | . | . | . | . | . | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
@@ -21,4 +21,5 @@
 ## Beurtenlog
 <!-- (Git-master vult hier reactie in: goed/fout + updates) -->
 - Beurt1 : a (fout)
-- Beurt2 : c
+- Beurt2 : c (goed x1)
+- Beurt3 :
